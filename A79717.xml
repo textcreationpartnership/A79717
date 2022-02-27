@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the Commissioners of the Generall Assemblie of the Kingdome of Scotland, concerning the Kings Majesties royall person, and his due rights and priviledges. With their sense and resolution touching the lawfulnesse of Soveraignty, and the proceedings of a disloyall and perfidious party, who formerly pretended to fight for the King. This declaration from the Commissioners of the Generall Assembly of the Kirk of Scotland, was ordained to be forthwith printed and published, and to be read in all churches and chappels throughout the said Kingdome. Signed, A. Ker.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79717</idno>
+            <idno type="STC">Wing C4212</idno>
+            <idno type="STC">Thomason E428_5</idno>
+            <idno type="STC">ESTC R204604</idno>
+            <idno type="EEBO-CITATION">99864071</idno>
+            <idno type="PROQUEST">99864071</idno>
+            <idno type="VID">116290</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116290)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E428[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the Commissioners of the Generall Assemblie of the Kingdome of Scotland, concerning the Kings Majesties royall person, and his due rights and priviledges. With their sense and resolution touching the lawfulnesse of Soveraignty, and the proceedings of a disloyall and perfidious party, who formerly pretended to fight for the King. This declaration from the Commissioners of the Generall Assembly of the Kirk of Scotland, was ordained to be forthwith printed and published, and to be read in all churches and chappels throughout the said Kingdome. Signed, A. Ker.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Evan Tyler, Printer to the Kings most Excellent Majesty ;</publisher>
+                  <pubPlace>Imprinted at Edenburgh :</pubPlace>
+                  <pubPlace>And re-printed at London,</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: staining.</note>
+                  <note>Annotation on Thomason copy: "Feb. 21"; the last I in imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116290:1" rendition="simple:additions"/>
+            <p>A DECLARATION FROM THE COMMISSIONERS OF THE Generall Assemblie OF THE KINGDOME OF SCOTLAND, CONCERNING The <hi>Kings Majesties</hi> Royall Perſon, and His due Rights and Priviledges. With their ſenſe and reſolution touching the lawfulneſſe of Soveraignty, and the proceedings of a diſ<g ref="char:EOLhyphen"/>loyall and perfidious Party, who formerly preten<g ref="char:EOLhyphen"/>ded to light for the KING.</p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>THis</hi> Declaration <hi>from the</hi> Commiſſioners <hi>of the</hi> Generall Aſ<g ref="char:EOLhyphen"/>ſembly <hi>of the Kirk of</hi> Scotland, <hi>was ordained to be forthwith Printed and Publiſhed, and to be read in all Churches and Chappels throughout the ſaid Kingdome.</hi>
+                     </p>
+                     <closer>
+                        <signed>Signed, A. KER.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Imprinted at <hi>Edenburgh</hi> by <hi>Evan Tyler,</hi> Printer to the <hi>Kings most Excellent Majesty.</hi> And Re-printed at <hi>London,</hi> MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:116290:2"/>
+            <pb n="1" facs="tcp:116290:2"/>
+            <head>A DECLARATION FROM The Commiſſioners of the Generall Aſſembly of the Kingdom of <hi>Scotland.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it hath been our conſtant cuſtome and conti<g ref="char:EOLhyphen"/>nuall care, from the ſenſe of the truſt committed unto us, to give warning unto this Kirk and King<g ref="char:EOLhyphen"/>dom of their condition and duty; ſo it cannot bee but very ſeaſonable and neceſſary at this time, to declare and make known our judgment of the car<g ref="char:EOLhyphen"/>riage of the People of the Land, in the day of darkneſſe, and houre of temptation that they who have ſtood may find matter of encou<g ref="char:EOLhyphen"/>ragement and praiſe, and ſuch as have fallen may recover themſelvs and repent.</p>
+            <p>We were void of underſtanding, if we ſhould not obſerve, and more then ungrate, if we ſhould not acknowledge the loving kind<g ref="char:EOLhyphen"/>neſſe of the Lord towards us, in the midſt of our confuſions and fears: Temptations were many and fierce, becauſe of the power and pride of an inſolent enemy [both to God and out dread Soveraign the King] whoſe proceedings is matter of abomination unto us, &amp; ſhall be a wonder unto the following Generation; yet did the body of the Kingdom keep their integrity, entertaining all thoughts of backſliding and complying with the Kings enemies, with indigna<g ref="char:EOLhyphen"/>tion
+<pb n="2" facs="tcp:116290:3"/> and deteſt, patiently ſuffering the bloud that hath been ſpilt, &amp; firmly ſtanding to the Cauſe of God in the midſt of difficulties and ſtraits, neither fearing the threats, nor regarding the promiſes of ſuch as oppoſe the ſame.</p>
+            <p>Theſe, as they be for a name of praiſe and joy unto the moſt high, the excellency of whoſe power is perfected in weakneſſe; ſo for a witneſſe unto the truth, and to the work of Reformation, and for a ſhame and reproach vnto the haters of Sion, whoſe ſubtilty &amp; violence is more then conquered by the faith and patience of the Saints.</p>
+            <p>Yet is it the matter of much ſorrow and aſtoniſhment unto us, that in the Land of uprightneſſe ſo many ſhould have done foo<g ref="char:EOLhyphen"/>liſhly; and notwithſtanding of all that work and power which their eyes have ſeen, and of their own vowes and Proteſtations, fallen from their excellency, and turned aſide unto corrupt and crooked wayes with the workers of iniquity. The bond of the Covenant is ſuch, as every religious heart cannot but remember the violation thereof with horrour and trembling; yet hath the Oath of God been forgotten and deſpiſed by many.</p>
+            <p>It is the admirable way of the working of the wiſdom of God, to over rule all the purpoſes and actions of the ſons of men unto his own ends. He whoſe wayes towards us have all been mercy and truth, meant a diſcovery of thoſe whoſe indifferency or treachery would ere long have procured a ſure and ſenſible ruine unto us, and now hath he brought his purpoſe to paſſe. This is a mercy which bring rightly managed, may countervaile all our ſufferings and p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>os, and prove very wholeſome unto the Land, and advantagious unto the Cauſe of God.</p>
+            <p>It is not any ſtrength of reaſon on the ſide of our adverſaries that could have ſhaken ſo many; their pretexts of the Kings ſervice, our Rebellion, and ſuch like as th<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> are poor and void of truth in them<g ref="char:EOLhyphen"/>ſelves, ſo do they eaſily vaniſh before every diſcerning and ratio<g ref="char:EOLhyphen"/>nall man.</p>
+            <p>The ſervice of Kings is not to cut down thouſands of their faith<g ref="char:EOLhyphen"/>full and loyall Subjects whoſe multitude is their glory &amp; ſtrength; but to do thoſe things which the Laws of the Kingdom preſcribe, and that are conſonant unto the will of God and unto the wealth of the people, whoſe ſafety is the Supream Law, and maine ſtudy of e<g ref="char:EOLhyphen"/>very
+<pb n="3" facs="tcp:116290:3"/> King ruling in righteouſneſſe and judgment. Our ſoules are not privy unto, and our actions plead us innocent from the guilt of diſloyalty; <hi>our witneſſe is in heaven, and our record is on high,</hi> that it was never our purpoſe or intention to ſubvert lawfull Soveraignty, nor to encroach upon the due rights and priviledges of the ſame; and we truſt, that whileſt we live, nothing ſhal eſcape us to the contra<g ref="char:EOLhyphen"/>ry.</p>
+            <p>We are able to juſtifie our union with England, as an undenia<g ref="char:EOLhyphen"/>ble teſtimony of our duty unto our Brethren in the times of their ſtraits by the Prelaticall Party, and of the preſervation of Religion in its purity ane power in this, and of its Reformation in the neigh<g ref="char:EOLhyphen"/>bour Lands, and ſureſt Bulwark of a ſtable and continuing peace betwixt the Kingdoms.</p>
+            <p>The League and Covenant with England, as it was ſtudied and ſet on foot in the days of our Fathers at Barwick in the yeer 1586. ſo was it from the begining of this glorious Work of Reformation endeavoured by our ſelves, as ſtands upon record in the Articles of the large Treaty, unto which ſome of thoſe who have now fallen to oppoſe it, were then neither ſtrangers nor adverſaries. Both Cove<g ref="char:EOLhyphen"/>nants, in regard of the principals whence they iſſue, the heads which they contain, and the ends which they purſue, are one and the ſame: And that the extent of the laſt unto our dear Brethren in England ſhould procure enmity, to the intentions and ſubſtance of the firſt, ſeems to us to be a riddle, which none can reſolve but perfi<g ref="char:EOLhyphen"/>dious perſons, who have made ſhipwrack of a good conſcience.</p>
+            <p>Who can but be amazed to heare the treacherous deſignes and bloudy practiſes of perjured men, palliat under pretence of the proſecution of the ends of our Nationall Covenant, as appeareth by divers who have lifted up their hands to Heaven, ſwearing unto the high God in the publike Aſſembly of his people, to build thoſe things which they now deſtroy, and to deſtroy thoſe things which they have lately ſet up; <hi>[meaning the diſſenting party of Scotland]</hi> though the Kings Majeſty, of whoſe Authority they pretended to be zealous of had not then given his royall conſent and approbati<g ref="char:EOLhyphen"/>on of our affairs.</p>
+            <p>It is our hearts deſire and hope, that all this courſe of providence thus abuſed by men void of underſtanding, may be improved by our ſelves, as a meanes of ſound and ſerious humiliation, that wee
+<pb n="4" facs="tcp:116290:4"/> may ſearch and try our ways, and turn again unto the Lord, who will do good unto us, becauſe of the diſloyall actions of his Maje<g ref="char:EOLhyphen"/>ſties enemies; Notwithſtanding of all calumnies and reproaches, the righteouſneſſe of our cauſe ſhall be accounted of us our glory, and in regard of it, We will not remove our integrity from us, our righteouſneſſe we will ſtill hold faſt, and not let it go and our heart ſhall not remove us ſo long as we live.</p>
+            <p>The true and reall cauſes of our backſliding are to be ſought a<g ref="char:EOLhyphen"/>mongſt our ſelves. If all the Watchmen of the houſe of Iſrael had been faithfull and zealous in diſcharge of their truſt, then had the Lords people better known the excellency of the Goſpel, and ſtuck cloſer to the profeſſion of the ſame, becauſe of the negligence and perverſneſſe of ſome of thoſe, many have halted for want of inſtru<g ref="char:EOLhyphen"/>ction, and lack of knowledge; but from the corruption which men have harboured in their own breaſts, hath mainly iſſued all the de<g ref="char:EOLhyphen"/>grees of their Declnation.</p>
+            <p>There be amongſt us many rotten and hollow hearts, who though though the joyned wit us through ſubtility, or fear did ſtill abide <hi>in the gall of bitterneſſe, and bond of iniquity,</hi> and wiſhed nothing more then the ſubverſion of our cauſe: What wonder though ſuch took advantage of a prevailing party, to diſcloſe their envy, wherewith they were now grown big, almoſt unto burſting: And there is a ge<g ref="char:EOLhyphen"/>neration whoſe ignorance and ſloath hath detained them, that they have not ſufficiently examined, nor rightly conſidered Zions con<g ref="char:EOLhyphen"/>troverſie with thoſe that plead againſt her, becauſe of her love to the truth: They conceive the debate to be about things Civill, at leaſt, not to go ſo high, as the hazard of any thing important in Re<g ref="char:EOLhyphen"/>ligion.</p>
+            <p>And ſuch is the negligence of thoſe, that they deſpiſe the meanes of inſtruction, largly offered and holden forth in many Warnings and Declarations, &amp;c.</p>
+            <p>What though it be lawfull in ſome caſes to capitulate, yea with Turks and Pagans, ſhall it therefore be lawfull to do that which may argue ſubjection, and imply ſubmiſſion unto a perfidious ene<g ref="char:EOLhyphen"/>my, who are going about to drive the People of the Land from their former duty, &amp;c. In this caſe, all and every one are called unto the aſſerting of the Confeſſion of their Faith, and of their owne in<g ref="char:EOLhyphen"/>nocency and righteouſnes touching the Realm of <hi>England.</hi> Neither
+<pb n="5" facs="tcp:116290:4"/> can we judg any better of protections from ſuch an enemy, becauſe they do imploy the authority of one who is forfeit by the State, &amp; excommunicate by the Kirk, and doe either expreſly of taci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ely in<g ref="char:EOLhyphen"/>gage the Receivers, if not to joyn, yet to reſiſt: they lay a ſtumbling block before all the Inhabitants of the Land, to make them for<g ref="char:EOLhyphen"/>bear action, or decline ſuffering, by following ſuch a courſe: If all had done ſo, it may ſoon be fore-ſeen what ſhould have beene the end: though happily they who were the doers, were not ſo appre<g ref="char:EOLhyphen"/>henſive, as to reach the depth of the evill, yet the end of the worke in it ſelfe, and in the intention of enemies, was to make them Ma<g ref="char:EOLhyphen"/>ſters of all the lives and eſtates within the Land.</p>
+            <p>Capitulations and protections, howſoever accounted of by thoſe who walke after the wiſdome of the fleſh, are deſtructive to our Covenant, almoſt in all the heads and Articles thereof: They tend unto the corrupting of Religion in this Land, and obſtructing the Work of Reformation in <hi>England</hi> unto the countenancing and ſtrengthning of the Popiſh and Prelaticall party, unto the ſubver<g ref="char:EOLhyphen"/>ſion of the due rights and priviledges of the <hi>Parliaments,</hi> and dimi<g ref="char:EOLhyphen"/>niſhing of his Majeſties juſt greatneſſe and authority unto the with<g ref="char:EOLhyphen"/>drawing of Incendiaries and Malignants from condigne punniſh<g ref="char:EOLhyphen"/>ment unto the overthrow of the Union betwixt the Kingdoms, unto the deſerting of our brethren, following of diviſive motions, and denying to hazzard or ſuffer the loſſe either of lives or eſtates in the defence of the cauſe, and them that adhere thereunto. We ſee not not any ſtrength of reaſon in that ſeeming neceſſity, unto which many pretend themſelves to be redacted: If men could not have retired from the fury and violence of the Enemy, or had not ſome probable way of reſiſtance and defence againſt the ſame, they ſhould have taken it as an evidence of the will of God calling them to ſuffer and give a teſtimony unto this Truth. Our Covenant doth no leſſe oblige us to ſuffering, then to doing; and it is the ignorance or ineffectual conſideration of our duty that makes us thus to wipe our mouths as if we had done nothing worthy of rebuke: Neither yet doth it excuſe, that ſome were not active to ob ain protections the receiving of them was to proſtitute the chaſtity of that affecti<g ref="char:EOLhyphen"/>on which wee owe unto the cauſe of God, and could be no better then a bribe that blinds the eies of the wiſe, &amp; hinders from doing judgement unto to afflicted.</p>
+            <pb n="6" facs="tcp:116290:5"/>
+            <p>The deep apprehenſion of their ſouls danger, moves us ſeriouſly and in the bowels of Jeſus Chriſt, to intreat all Temporizers and Back-ſliders to remember whence they are fallen and to repent: Let it not be a light thing unto ſuch that they have diſpiſed the Oath of God, undervalued the pretious Truth of the Goſpell, and drawn upon themſelves the guilt of their Brethrens-bloud by for<g ref="char:EOLhyphen"/>ſaking them in their juſt de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence. If the due ſenſe of their ſin ſhall bring them to lament after the Lord, they may hope to find him gratious and mercifull, to forgive their iniquity and heal their back-ſlidings: But if they ſhall harden themſelves, and continue in their provocation, they have cauſe of fear, that the Lord of Hoſts ſhall avenge the quarrell of his Covenant upon them who have ſworn falſely by his Name.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>THe Eſtates of Parliament conveened in the first Seſſion of the triennall Parliament of Scotland, having heard the De<g ref="char:EOLhyphen"/>claration preſented unto them by the Commiſſioners of the Ge<g ref="char:EOLhyphen"/>nerall Aſsembly read in their audience, received the ſame cheerfully, and Ordered the ſame to be forthwith printed and publiſhed.</p>
+            <closer>
+               <signed>SIGNED, Alex. Gibſone Cler. Regiſtri.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
